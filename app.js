@@ -4,3 +4,4 @@ console.log('Feature Task Updated');
 
 console.log('New Feature Added');
 console.log('New Feature');
+console.log('Dark Mode Feature');
